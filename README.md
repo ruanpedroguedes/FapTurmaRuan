@@ -1,2 +1,3 @@
 # FapTurmaRuan
-Repositório teste da turma 10 
+Repositório da Turma FAP para envio de atividades
+
